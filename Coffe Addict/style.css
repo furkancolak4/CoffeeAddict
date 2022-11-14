@@ -1,0 +1,23 @@
+body{
+    background-color: bisque;
+}
+
+a{
+    font-weight: bold;
+}
+
+a:hover{
+    text-decoration: none;
+    color: blue;
+    background-color:gold
+}
+
+.home-h2{
+    text-align: center;
+    font-size: 32px;
+}
+
+
+.body{
+    font-family: serif;;
+}
